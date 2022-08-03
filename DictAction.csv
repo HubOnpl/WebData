@@ -15,3 +15,4 @@ ID,Wzorzec,SlownikCzynnosc,Typ
 14,Zajęcie wynagrodzenia,Zajęcie wynagrodzenia,ZAJĘCIE
 15,Zajęcie emerytury lub renty,Zajęcie emerytury/renty,ZAJĘCIE
 16,Wezwanie o zaliczkę na wydatki gotówkowe (ukk),Wezwania o zaliczkę,WEZWANIE
+17,Wniosek o udzielenie danych z centralnej ewidencji pojazdów,Zapytanie CEPiK,CEPiK
