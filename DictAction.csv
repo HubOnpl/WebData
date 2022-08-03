@@ -7,3 +7,10 @@ ID,Wzorzec,SlownikCzynnosc,Typ
 6,Zawiadomienie o przeszkodzie - zbieg egzekucji,Zbieg OGNIVO,OGNIVO
 7,Zawiadomienie o przeszkodzie - brak środków,Brak środków OGNIVO,OGNIVO
 8,Odpowiedź na zapytania e-KIR - negatywna,Negatywny OGNIVO,OGNIVO
+9,Zawiadomienie o zajęciu wierzytelności z rachunku bankowego,Zajęcie rachunku bankowego,ZAWIADOMIENIE
+10,Zawiadomienie o zajęciu wierzytelności w US z tytułu nadpłat lub zwrotów podatków,ZAWIADOMIENIE
+11,Zajęcie wierzytelności - US,Zajęcie US,ZAJĘCIE
+12,Zajęcie wierzytelności US,Zajęcie US,ZAJĘCIE
+13,Zawiadomienie o zajęciu wynagrodzenia za pracę,ZAWIADOMIENIE
+14,Zajęcie wynagrodzenia,Zajęcie wynagrodzenia,ZAJĘCIE
+15,Zajęcie emerytury lub renty,Zajęcie emerytury/renty,ZAJĘCIE
