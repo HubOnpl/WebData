@@ -1,15 +1,19 @@
 NazwaInstytucji,SymbolLiterowy
 Narodowy Bank Polski,NBP
 Powszechna Kasa Oszczędności,PKO
+PKO,PKO
 Bank Handlowy w Warszawie Spółka Akcyjna,BH
 ING,INGBSK
 Bank BPH Spółka Akcyjna,BPH
+WBK,SANPL
 Santander,SANPL
 Bank Gospodarstwa Krajowego,BGK
 mBank,mBank
 Millennium,MIL
+MILLENIUM,MIL
 Bank Handlowo-Kredytowy Spółka Akcyjna w Katowicach w likwidacji,BHK
 Polska Kasa Opieki,PEKAO
+PEKAO,PEKAO
 Bank Pocztowy,BPSA
 Bank Ochrony Środowiska,BOS
 Mercedes-Benz Bank Polska Spółka Akcyjna w likwidacji,MBBP
@@ -23,6 +27,7 @@ BANK POLSKIEJ SPÓŁDZIELCZOŚCI SPÓŁKA AKCYJNA,BPSSA
 Credit Agricole,CABP
 Idea Bank,IDEA
 BNP Paribas,BNP
+BANK GOSPODARKI ŻYWNOŚCIOWEJ,BNP
 Santander Consumer Bank Spółka Akcyjna,SCB
 mBank Hipoteczny Spółka Akcyjna,RH-BRE
 Toyota Bank Polska Spółka Akcyjna,TBPSA
@@ -66,7 +71,7 @@ Bank Nowy Spółka Akcyjna,BN
 Allfunds Bank S.A.U. (Spółka Akcyjna) Oddział w Polsce,AFB PL
 Hoist Finance AB (publ) Spółka Akcyjna Oddział w Polsce,HOIST
 Millennium Bank Hipoteczny Spółka Akcyjna,MILBH
-AION Bank,Aion
+AION,Aion
 Bank Spółdzielczy w Otwocku,BS8001
 Bank Spółdzielczy w Piasecznie,BS8002
 Mazovia Bank Spółdzielczy,BS8003
