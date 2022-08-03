@@ -14,3 +14,4 @@ ID,Wzorzec,SlownikCzynnosc,Typ
 13,Zawiadomienie o zajęciu wynagrodzenia za pracę,Zajęcie wynagrodzenia,ZAWIADOMIENIE
 14,Zajęcie wynagrodzenia,Zajęcie wynagrodzenia,ZAJĘCIE
 15,Zajęcie emerytury lub renty,Zajęcie emerytury/renty,ZAJĘCIE
+16,Wezwanie o zaliczkę na wydatki gotówkowe (ukk),Wezwania o zaliczkę,WEZWANIE
