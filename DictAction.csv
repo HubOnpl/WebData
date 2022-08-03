@@ -1,2 +1,3 @@
 ID,Wzorzec,SlownikCzynnosc,Typ
-1,Odpowiedź na zapytania e-KIR - negatywna,Negatywny OGNIVO,OGNIVO
+1,Odpowiedź z CEPiK 2.0 - Nie znaleziono - negatywna,Negatywny CEPiK,CEPiK
+2,Odpowiedź z CEPiK 2.0 - pozytywna,Pozytywny CEPiK,Pozytywny CEPiK,CEPiK
