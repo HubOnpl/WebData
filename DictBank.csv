@@ -9,6 +9,7 @@ WBK,SANPL
 Santander,SANPL
 Bank Gospodarstwa Krajowego,BGK
 mBank,mBank
+BRE BANK,mBank
 Millennium,MIL
 MILLENIUM,MIL
 Bank Handlowo-Kredytowy Spółka Akcyjna w Katowicach w likwidacji,BHK
@@ -21,6 +22,7 @@ SGB-Bank Spółka Akcyjna,SGB-BA
 PLUS BANK,PLUSSA
 Société Générale Spółka Akcyjna Oddział w Polsce,SG
 Nest Bank,NEST
+FM BANK,NEST
 Pekao Bank Hipoteczny Spółka Akcyjna,PEKAOH
 Deutsche Bank Polska Spółka Akcyjna,DBPL
 BANK POLSKIEJ SPÓŁDZIELCZOŚCI SPÓŁKA AKCYJNA,BPSSA
@@ -609,6 +611,7 @@ Spółdzielcza Kasa Oszczędnościowo-Kredytowa Śląsk z siedzibą w Rudzie Śl
 Spółdzielcza Kasa Oszczędnościowo-Kredytowa Wisła,SK052
 Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Zygmunta Chmielewskiego,SK061
 Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Franciszka Stefczyka,SK065
+IM. FRANCISZKA STEFCZYKA,SK065
 Krakowska Spółdzielcza Kasa Oszczędnościowo-Kredytowa w Krakowie,SK079
 Spółdzielcza Kasa Oszczędnościowo-Kredytowa „Szopienice” w Katowicach,SK089
 Spółdzielcza Kasa Oszczędnościowo-Kredytowa Świdnik,SK099
