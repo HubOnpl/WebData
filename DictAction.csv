@@ -2,3 +2,8 @@ ID,Wzorzec,SlownikCzynnosc,Typ
 1,Odpowiedź z CEPiK 2.0 - Nie znaleziono - negatywna,Negatywny CEPiK,CEPiK
 2,Odpowiedź z CEPiK 2.0 - pozytywna,Pozytywny CEPiK,CEPiK
 3,Zawiadomienie o wszczęciu egzekucji roszczenia pieniężnego,Zawiadomienie o wszczęciu,ZAWIADOMIENIE
+4,E-zapytanie banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,OGNIVO
+5,Odpowiedź na zapytania e-KIR - pozytywna,Pozytywny OGNIVO,OGNIVO
+6,Zawiadomienie o przeszkodzie - zbieg egzekucji,Zbieg OGNIVO,OGNIVO
+7,Zawiadomienie o przeszkodzie - brak środków,Brak środków OGNIVO,OGNIVO
+8,Odpowiedź na zapytania e-KIR - negatywna,Negatywny OGNIVO,OGNIVO
