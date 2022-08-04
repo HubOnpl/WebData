@@ -20,3 +20,7 @@ ID,Wzorzec,SlownikCzynnosc,Typ
 19,Wezwanie dłużnika do złożenia wykazu majątku,Wezwanie majątek,WEZWANIE
 20,Wezwanie dłużnika do złożenia wyjaśnień,Wezwanie art.797,WEZWANIE
 21,Wykaz majątku,Wezwanie art.913,WEZWANIE
+22,Rachunek ZUS,Rachunek ZUS,INNE
+23,Czynność terenowa,Wizyta terenowa,TEREN
+24,Zapytanie do KRUS,Zapytanie KRUS,KRUS
+25,Zawiadomienie o braku rachunku,Brak rachunku OGNIVO,OGNIVO
