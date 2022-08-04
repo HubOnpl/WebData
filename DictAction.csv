@@ -1,28 +1,29 @@
 ID,Wzorzec,SlownikCzynnosc,Typ
-1,Odpowiedź z CEPiK 2.0 - Nie znaleziono - negatywna,Negatywny CEPiK,CEPiK
-2,Odpowiedź z CEPiK 2.0 - pozytywna,Pozytywny CEPiK,CEPiK
-3,Zawiadomienie o wszczęciu egzekucji roszczenia pieniężnego,Zawiadomienie o wszczęciu,ZAWIADOMIENIE
-4,E-zapytanie banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,OGNIVO
-5,Odpowiedź na zapytania e-KIR - pozytywna,Pozytywny OGNIVO,OGNIVO
-6,Zawiadomienie o przeszkodzie - zbieg egzekucji,Zbieg OGNIVO,OGNIVO
-7,Zawiadomienie o przeszkodzie - brak środków,Brak środków OGNIVO,OGNIVO
-8,Odpowiedź na zapytania e-KIR - negatywna,Negatywny OGNIVO,OGNIVO
-9,Zawiadomienie o zajęciu wierzytelności z rachunku bankowego,Zajęcie rachunku bankowego,ZAWIADOMIENIE
-10,Zawiadomienie o zajęciu wierzytelności w US z tytułu nadpłat lub zwrotów podatków,Zajęcie US,ZAWIADOMIENIE
-11,Zajęcie wierzytelności - US,Zajęcie US,ZAJĘCIE
-12,Zajęcie wierzytelności US,Zajęcie US,ZAJĘCIE
-13,Zawiadomienie o zajęciu wynagrodzenia za pracę,Zajęcie wynagrodzenia,ZAWIADOMIENIE
-14,Zajęcie wynagrodzenia,Zajęcie wynagrodzenia,ZAJĘCIE
-15,Zajęcie emerytury lub renty,Zajęcie emerytury/renty,ZAJĘCIE
-16,Wezwanie o zaliczkę na wydatki gotówkowe (ukk),Wezwania o zaliczkę,WEZWANIE
-17,Wniosek o udzielenie danych z centralnej ewidencji pojazdów,Zapytanie CEPiK,CEPiK
-18,Wniosek komornika sądowego o udostępnienie danych ze zbiorów ZUS,Zapytanie ZUS,ZUS
-19,Wezwanie dłużnika do złożenia wykazu majątku,Wezwanie majątek,WEZWANIE
-20,Wezwanie dłużnika do złożenia wyjaśnień,Wezwanie art.797,WEZWANIE
-21,Wykaz majątku,Wezwanie art.913,WEZWANIE
-22,Rachunek ZUS,Rachunek ZUS,INNE
-23,Czynność terenowa,Wizyta terenowa,TEREN
-24,Zapytanie do KRUS,Zapytanie KRUS,KRUS
-25,Zawiadomienie o braku rachunku,Brak rachunku OGNIVO,OGNIVO
-26,Zawiadomienie o zajęciu świadczeń wypłacanych przez ZUS (emerytura,Zajęcie emerytury/renty,ZAJĘCIE
-27,Zawiadomienie wierzyciela o zajęciu nieruchomości,Zajęcie nieruchomości,ZAJĘCIE
+P001,Postanowienie o kosztach – postępowanie egzekucyjne,Koszty postępowania art.770§2,POSTANOWIENIE
+1,#Odpowiedź z CEPiK 2.0 - Nie znaleziono - negatywna,Negatywny CEPiK,CEPiK
+2,#Odpowiedź z CEPiK 2.0 - pozytywna,Pozytywny CEPiK,CEPiK
+3,#Zawiadomienie o wszczęciu egzekucji roszczenia pieniężnego,Zawiadomienie o wszczęciu,ZAWIADOMIENIE
+4,#E-zapytanie banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,OGNIVO
+5,#Odpowiedź na zapytania e-KIR - pozytywna,Pozytywny OGNIVO,OGNIVO
+6,#Zawiadomienie o przeszkodzie - zbieg egzekucji,Zbieg OGNIVO,OGNIVO
+7,#Zawiadomienie o przeszkodzie - brak środków,Brak środków OGNIVO,OGNIVO
+8,#Odpowiedź na zapytania e-KIR - negatywna,Negatywny OGNIVO,OGNIVO
+9,#Zawiadomienie o zajęciu wierzytelności z rachunku bankowego,Zajęcie rachunku bankowego,ZAWIADOMIENIE
+10,#Zawiadomienie o zajęciu wierzytelności w US z tytułu nadpłat lub zwrotów podatków,Zajęcie US,ZAWIADOMIENIE
+11,#Zajęcie wierzytelności - US,Zajęcie US,ZAJĘCIE
+12,#Zajęcie wierzytelności US,Zajęcie US,ZAJĘCIE
+13,#Zawiadomienie o zajęciu wynagrodzenia za pracę,Zajęcie wynagrodzenia,ZAWIADOMIENIE
+14,#Zajęcie wynagrodzenia,Zajęcie wynagrodzenia,ZAJĘCIE
+15,#Zajęcie emerytury lub renty,Zajęcie emerytury/renty,ZAJĘCIE
+16,#Wezwanie o zaliczkę na wydatki gotówkowe (ukk),Wezwania o zaliczkę,WEZWANIE
+17,#Wniosek o udzielenie danych z centralnej ewidencji pojazdów,Zapytanie CEPiK,CEPiK
+18,#Wniosek komornika sądowego o udostępnienie danych ze zbiorów ZUS,Zapytanie ZUS,ZUS
+19,#Wezwanie dłużnika do złożenia wykazu majątku,Wezwanie majątek,WEZWANIE
+20,#Wezwanie dłużnika do złożenia wyjaśnień,Wezwanie art.797,WEZWANIE
+21,#Wykaz majątku,Wezwanie art.913,WEZWANIE
+22,#Rachunek ZUS,Rachunek ZUS,INNE
+23,#Czynność terenowa,Wizyta terenowa,TEREN
+24,#Zapytanie do KRUS,Zapytanie KRUS,KRUS
+25,#Zawiadomienie o braku rachunku,Brak rachunku OGNIVO,OGNIVO
+26,#Zawiadomienie o zajęciu świadczeń wypłacanych przez ZUS (emerytura,Zajęcie emerytury/renty,ZAJĘCIE
+27,#Zawiadomienie wierzyciela o zajęciu nieruchomości,Zajęcie nieruchomości,ZAJĘCIE
