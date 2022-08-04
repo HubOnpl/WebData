@@ -18,3 +18,4 @@ ID,Wzorzec,SlownikCzynnosc,Typ
 17,Wniosek o udzielenie danych z centralnej ewidencji pojazdów,Zapytanie CEPiK,CEPiK
 18,Wniosek komornika sądowego o udostępnienie danych ze zbiorów ZUS,Zapytanie ZUS,ZUS
 19,Wezwanie dłużnika do złożenia wykazu majątku,Wezwanie majątek,WEZWANIE
+20,Wezwanie dłużnika do złożenia wyjaśnień,Wezwanie art.797,WEZWANIE
