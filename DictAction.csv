@@ -25,3 +25,4 @@ ID,Wzorzec,SlownikCzynnosc,Typ
 24,Zapytanie do KRUS,Zapytanie KRUS,KRUS
 25,Zawiadomienie o braku rachunku,Brak rachunku OGNIVO,OGNIVO
 26,Zawiadomienie o zajęciu świadczeń wypłacanych przez ZUS (emerytura,Zajęcie emerytury/renty,ZAJĘCIE
+27,Zawiadomienie wierzyciela o zajęciu nieruchomości,Zajęcie nieruchomości,ZAJĘCIE
