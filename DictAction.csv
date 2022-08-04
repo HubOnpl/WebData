@@ -7,7 +7,7 @@ O004,Odpowiedź z CEPiK 2.0 - pozytywna,Pozytywny CEPiK,ODPOWIEDŹ
 Y002,Wniosek komornika sądowego o udostępnienie danych ze zbiorów ZUS,Zapytanie ZUS,ZAPYTANIE
 Y003,E-zapytanie banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,ZAPYTANIE
 O001,Odpowiedź na zapytania e-KIR - pozytywna,Pozytywne OGNIVO,ODPOWIEDŹ
-O002.Odpowiedź na zapytania e-KIR - negatywna,Negatywne OGNIVO,ODPOWIEDŹ
+O002,Odpowiedź na zapytania e-KIR - negatywna,Negatywne OGNIVO,ODPOWIEDŹ
 W001,Wezwanie o zaliczkę na wydatki gotówkowe (ukk),Wezwanie o zaliczkę,WEZWANIE
 3,#Zawiadomienie o wszczęciu egzekucji roszczenia pieniężnego,Zawiadomienie o wszczęciu,ZAWIADOMIENIE
 4,#E-zapytanie banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,OGNIVO
