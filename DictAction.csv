@@ -3,6 +3,7 @@ P001,Postanowienie o kosztach – postępowanie egzekucyjne,Koszty postępowania
 Z001,Zawiadomienie o zajęciu wierzytelności z rachunku bankowego,Zajęcie rachunku art.890,ZAJĘCIE
 Y001,Wniosek o udzielenie danych z centralnej ewidencji pojazdów,Zapytanie CEPiK,ZAPYTANIE
 Y002,Wniosek komornika sądowego o udostępnienie danych ze zbiorów ZUS,Zapytanie ZUS,ZAPYTANIE
+Y003,E-zapytanie banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,ZAPYTANIE
 W001,Wezwanie o zaliczkę na wydatki gotówkowe (ukk),Wezwanie o zaliczkę,WEZWANIE
 1,#Odpowiedź z CEPiK 2.0 - Nie znaleziono - negatywna,Negatywny CEPiK,CEPiK
 2,#Odpowiedź z CEPiK 2.0 - pozytywna,Pozytywny CEPiK,CEPiK
