@@ -1,6 +1,7 @@
 ID,Wzorzec,SlownikCzynnosc,Typ
 P001,Postanowienie o kosztach – postępowanie egzekucyjne,Koszty postępowania art.770§2,POSTANOWIENIE
 Z001,Zawiadomienie o zajęciu wierzytelności z rachunku bankowego,Zajęcie rachunku art.890,ZAJĘCIE
+Y001,Wniosek o udzielenie danych z centralnej ewidencji pojazdów,Zapytanie CEPiK,ZAPYTANIE
 1,#Odpowiedź z CEPiK 2.0 - Nie znaleziono - negatywna,Negatywny CEPiK,CEPiK
 2,#Odpowiedź z CEPiK 2.0 - pozytywna,Pozytywny CEPiK,CEPiK
 3,#Zawiadomienie o wszczęciu egzekucji roszczenia pieniężnego,Zawiadomienie o wszczęciu,ZAWIADOMIENIE
