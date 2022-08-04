@@ -24,3 +24,4 @@ ID,Wzorzec,SlownikCzynnosc,Typ
 23,Czynność terenowa,Wizyta terenowa,TEREN
 24,Zapytanie do KRUS,Zapytanie KRUS,KRUS
 25,Zawiadomienie o braku rachunku,Brak rachunku OGNIVO,OGNIVO
+26,Zawiadomienie o zajęciu świadczeń wypłacanych przez ZUS (emerytura,Zajęcie emerytury/renty,ZAJĘCIE
