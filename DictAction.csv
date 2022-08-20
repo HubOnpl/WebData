@@ -16,7 +16,7 @@ O002,Odpowiedź na zapytania e-KIR - negatywna,Negatywne OGNIVO,ODPOWIEDŹ
 O003,Zawiadomienie o przeszkodzie - zbieg egzekucji,Zbieg OGNIVO,ODPOWIEDŹ
 O004,Zawiadomienie o przeszkodzie - brak środków,Brak środków OGNIVO,ODPOWIEDŹ
 W001,Wezwanie o zaliczkę na wydatki gotówkowe (ukk),Wezwanie o zaliczkę,WEZWANIE
-W002,Wezwanie do złożenia wykazu majątku,Wezwanie majątek,WEZWANIE
+W002,Wezwanie do złożenia wykazu majątku,Wezwanie majątek art.801,WEZWANIE
 3,#Zawiadomienie o wszczęciu egzekucji roszczenia pieniężnego,Zawiadomienie o wszczęciu,ZAWIADOMIENIE
 4,#E-zapytanie banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,OGNIVO
 5,#Odpowiedź na zapytania e-KIR - pozytywna,Pozytywny OGNIVO,OGNIVO
