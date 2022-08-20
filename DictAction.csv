@@ -8,6 +8,7 @@ O003,Odpowiedź z CEPiK 2.0 - Nie znaleziono - negatywna,Negatywny CEPiK,ODPOWIE
 O004,Odpowiedź z CEPiK 2.0 - pozytywna,Pozytywny CEPiK,ODPOWIEDŹ
 Y002,Wniosek komornika sądowego o udostępnienie danych ze zbiorów ZUS,Zapytanie ZUS,ZAPYTANIE
 Y003,E-zapytanie banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,ZAPYTANIE
+Y003,Ee-Zapytanie do banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,ZAPYTANIE
 O001,Odpowiedź na zapytania e-KIR - pozytywna,Pozytywne OGNIVO,ODPOWIEDŹ
 O002,Odpowiedź na zapytania e-KIR - negatywna,Negatywne OGNIVO,ODPOWIEDŹ
 O003,Zawiadomienie o przeszkodzie - zbieg egzekucji,Zbieg OGNIVO,ODPOWIEDŹ
