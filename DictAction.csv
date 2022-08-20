@@ -8,7 +8,7 @@ Y001,Wniosek o udzielenie danych z centralnej ewidencji pojazdów,Zapytanie CEPi
 O003,Odpowiedź z CEPiK 2.0 - Nie znaleziono - negatywna,Negatywny CEPiK,ODPOWIEDŹ
 O004,Odpowiedź z CEPiK 2.0 - pozytywna,Pozytywny CEPiK,ODPOWIEDŹ
 Y002,Wniosek komornika sądowego o udostępnienie danych ze zbiorów ZUS,Zapytanie ZUS,ZAPYTANIE
-O009,Transfer elektroniczny wychodzący (ZUS, pozytywny),Pozytywny ZUS,ODPOWIEDŹ
+O009,Transfer elektroniczny wychodzący (ZUS pozytywny),Pozytywny ZUS,ODPOWIEDŹ
 Y003,E-zapytanie banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,ZAPYTANIE
 Y003,e-Zapytanie do banku o rachunki bankowe dłużnika,Zapytanie OGNIVO,ZAPYTANIE
 O001,Odpowiedź na zapytania e-KIR - pozytywna,Pozytywne OGNIVO,ODPOWIEDŹ
