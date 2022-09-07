@@ -1,1 +1,2 @@
 # WebData
+Zbiory słownikowe
